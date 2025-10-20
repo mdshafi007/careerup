@@ -24,7 +24,7 @@ CORS(app, resources={
         "origins": [
             "http://localhost:3000",
             "https://*.vercel.app",
-            "https://careerup.vercel.app"  # Update this with your actual Vercel domain
+            "https://careerup-navy.vercel.app"  # Your actual Vercel domain
         ],
         "methods": ["GET", "POST", "OPTIONS"],
         "allow_headers": ["Content-Type"]
